@@ -1,7 +1,6 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/microsoft/SuperPod) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5021/badge)](https://bestpractices.coreinfrastructure.org/projects/5021)
 
 As the maintainer of this project, please make a few updates:
 
