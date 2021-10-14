@@ -1,6 +1,6 @@
 # Project
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/microsoft/SuperPod) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5021/badge)](https://bestpractices.coreinfrastructure.org/projects/5021)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/microsoft/SuperPod) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5319/badge)](https://bestpractices.coreinfrastructure.org/projects/5319)
 
 As the maintainer of this project, please make a few updates:
 
